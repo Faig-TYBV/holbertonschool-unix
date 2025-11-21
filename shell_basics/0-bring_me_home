@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /root
+source ./0-bring_me_home ; pwd
