@@ -1,2 +1,2 @@
 #!/bin/bash
-source ./0-bring_me_home ; pwd
+source ./0-bring_me_home  pwd
